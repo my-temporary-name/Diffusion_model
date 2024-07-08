@@ -71,8 +71,6 @@ Now we can get even more sprites, beyond our training data
 
 ## Normal Distribution
 
-## Normal Distribution
-
 The **Normal Distribution**, also known as the **Gaussian Distribution**, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. The shape of the normal distribution is famously known as the "bell curve" because of its bell-shaped appearance.
 
 ### Formula
